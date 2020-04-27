@@ -1,4 +1,4 @@
-# IBM-Capstone-Project
+# IBM-Project-Segmentation and clustring the neighborhoods in city of toronto
 
 In this project, we will explore, segment, and cluster the neighborhoods in the city of Toronto. For the Toronto neighborhood data, a Wikipedia page exists that has all the information we need to explore and cluster the neighborhoods in Toronto. 
 
